@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pixelButtonHeight">70dp</dimen>
+    <dimen name="pixelButtonWidthClear">140dp</dimen>
+    <dimen name="pixelButtonTextSize">18sp</dimen>
+    <dimen name="pixelTextViewTextSize">20sp</dimen>
+    <dimen name="pixelTextViewHeight">40dp</dimen>
+    <dimen name="pixelTextViewWidth">100dp</dimen>
+    <dimen name="pixelTextViewBigWidth">140dp</dimen>
+    <dimen name="pixelTextViewMargin">10dp</dimen>
+    <dimen name="pixelPriceWidth">300dp</dimen>
+    <dimen name="pixelPriceHeight">50dp</dimen>
+    <dimen name="pixelPriceTextSize">30sp</dimen>
+
+    <dimen name="nexusButtonHeight">120dp</dimen>
+    <dimen name="nexusButtonWidthClear">240dp</dimen>
+    <dimen name="nexusButtonTextSize">36sp</dimen>
+    <dimen name="nexusTextViewTextSize">40sp</dimen>
+    <dimen name="nexusTextViewHeight">80dp</dimen>
+    <dimen name="nexusTextViewWidth">200dp</dimen>
+    <dimen name="nexusTextViewBigWidth">280dp</dimen>
+    <dimen name="nexusTextViewMargin">10dp</dimen>
+    <dimen name="nexusPriceWidth">550dp</dimen>
+    <dimen name="nexusPriceHeight">100dp</dimen>
+    <dimen name="nexusPriceTextSize">60sp</dimen>
+</resources>
